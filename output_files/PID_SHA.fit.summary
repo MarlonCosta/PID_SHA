@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jan 27 19:28:09 2017
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : PID_SHA
+Top-level Entity Name : PID
+Family : Cyclone IV E
+Device : EP4CE6E22A7
+Timing Models : Final
+Total logic elements : 175 / 6,272 ( 3 % )
+    Total combinational functions : 174 / 6,272 ( 3 % )
+    Dedicated logic registers : 46 / 6,272 ( < 1 % )
+Total registers : 46
+Total pins : 34 / 92 ( 37 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
